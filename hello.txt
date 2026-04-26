@@ -1,20 +1,2 @@
-hello this world!!!
-这hello this world!!!
-hello this world!!!
-这个是什么东西，我咋有点看不懂这个是什么东西，我咋有点看不懂
-hello this world!!!
-hello this world!!!
-hello this world!!!
-hello this world!!!
-hello this world!!!
-hello this world!!!
-hello this world!!!
-hello this world!!!
-hello this world!!!
-hello this world!!!
-what is this 666666666
-this is three version
-this is four verson
-太卡了，删除点东西
-hot-fit 看会不会冲突
+This is my first time learning to use git
 
